@@ -1,0 +1,7 @@
+Sample	Gene	Transcript ID	Name	Location	Pos.	Type	Coverage	Nuc Change	AA Change	Hint	c.HGVS	p.HGVS	mut Entry	mut Effect	Weighting
+sample1-PCR1_VarCompl.csv	ASXL1	ENST00000375687	ASXL1-E13-MS	E13	27 (1746)   [chr20:g.31022261 (hg19)]	C	0.4% (6)   [0.5% (6) / 0% (0)]	C -> G (het)	P -> P (582)		c.1746C>G	p.Pro582=			other	
+sample1-PCR2_VarCompl.csv	ASXL1	ENST00000375687	ASXL1-E13-MS-2	E13	375 (2094)   [chr20:g.31022609 (hg19)]	C	0.2% (6)   [0.2% (3) / 0.2% (3)]	G -> A (het)	P -> P (698)		c.2094G>A	p.Pro698=			other	
+sample3-PCR1_VarCompl.csv	BRAF	ENST00000288602	BRAF-E08-MS-2	E8	104 (1084)   [chr7:g.140494164 (hg19)]	C	0.2% (8)   [0.2% (4) / 0.2% (4)]	C -> T (het)	R -> [STOP] (362)		c.1084C>T	p.Arg362Ter			other	
+sample2-PCR2_VarCompl.csv	ASXL1	ENST00000375687	ASXL1-E13-MS	E13	27 (1746)   [chr20:g.31022261 (hg19)]	C	0.4% (6)   [0.5% (6) / 0% (0)]	C -> G (het)	P -> P (582)		c.1746C>G	p.Pro582=			other	
+sample3-PCR2_VarCompl.csv	ASXL1	ENST00000375687	ASXL1-E13-MS-2	E13	375 (2094)   [chr20:g.31022609 (hg19)]	C	0.2% (6)   [0.2% (3) / 0.2% (3)]	G -> A (het)	P -> P (698)		c.2094G>A	p.Pro698=			other	
+sample2-PCR1_VarCompl.csv	BRAF	ENST00000288602	BRAF-E08-MS-2	E8	104 (1084)   [chr7:g.140494164 (hg19)]	C	0.2% (8)   [0.2% (4) / 0.2% (4)]	C -> T (het)	R -> [STOP] (362)		c.1084C>T	p.Arg362Ter			other	
