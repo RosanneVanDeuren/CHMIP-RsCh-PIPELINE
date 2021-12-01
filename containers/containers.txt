@@ -1,0 +1,5 @@
+Required containers:
+1) bedtools_v2.29.2.sif
+2) python-v2.7-sys-np-pd-pysam.sif
+3) samtools_1.11.sif
+4) perl_5.18.4-threaded-stretch.sif
